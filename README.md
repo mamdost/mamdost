@@ -44,8 +44,8 @@ Here are some of my simpler projects:
 I’ll be happy for **any feedback**, ideas, or if you find use in any of my projects.  
 Feel free to contact me via social platforms:
 
-- 👉 [Facebook](https://www.facebook.com/your-profile)
-- 👉 [Instagram](https://www.instagram.com/your-instagram)
+- 👉 [Facebook](https://www.facebook.com/vojtech.palaty1/)
+- 👉 [Instagram](https://www.instagram.com/maddos_)
 
 ---
 
