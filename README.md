@@ -29,12 +29,14 @@ I enjoy thinking through different scenarios and continuously improving these ap
 
 ## 🚀 Projects
 
-Here are some of my simpler projects:
+Some of my projects:
 
 | Project | Language | Description |
 |--------|----------|-------------|
+| [DUB_V9](https://github.com/mamdost/DUB_V9) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Privacy-first music collaboration tool with Google Drive–based storage, track versioning, and built-in streaming player. |
 | [grandMA3 OSC Control](https://github.com/mamdost/grandMA3-OSC-Control) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | A web-based remote control interface for grandMA3 lighting consoles using OSC protocol. |
 | QR Inventory | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | A web-based inventory tracking system for managing equipment with CSV import/export, barcode scanning, real-time editing, and seamless integration with the QRBot mobile app for on-the-go inventory updates. |
+
 
 
 ---
